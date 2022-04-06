@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[Tecnia Labs](https://tecnialabs.com/) is an US based
+company that helps customers growth by building technological solutions
+and specializes in infrastructure as code, DevOps, and software development.
 <!--
 
 **Here are some ideas to get you started:**
